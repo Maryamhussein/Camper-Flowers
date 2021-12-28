@@ -1,0 +1,71 @@
+*{
+	padding:0;
+	margin:0;
+}
+body{
+	font-family:sans-serif;
+	background-image:url('bg.jpg');
+	background-position:center;
+	padding:30px;
+}
+.container{
+	width:80%;
+	margin:0  auto;
+	background:#Fbd2d7;
+	text-align:center;
+    padding:20px;
+
+}
+h1 ,h2 {
+	font-family:Impact,serif;
+}
+h1{
+	font-size:40px;
+	padding:15px 0;
+}
+h2{
+	font-size:30px;
+	padding:20px 0;
+}
+
+hr {
+	border-color:#d5647c;
+	background-color:#d5647c;
+	height:2px;
+}
+.established{
+	font-style:italic;
+	padding:10px 0;
+}
+img{
+	margin:5px auto;
+}
+.item p{
+	display:inline-block;
+}
+.valentine{
+	text-align:left;
+	width:75%;
+	font-size:18px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.price{
+	text-align:right;
+	width:25%;
+	font-weight:600;
+
+}
+.bottom-line{
+	margin:10px 0;
+}
+footer{
+	padding:10px 0;
+}
+footer p{
+	font-size:15px;
+}
+footer span {
+	color:#d5647c;
+	font-weight:bold;
+}
